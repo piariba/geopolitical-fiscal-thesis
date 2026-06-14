@@ -1,9 +1,6 @@
 # geopolitical-fiscal-thesis
 This repository contains the replication code for the MSc thesis "Budgeting for Uncertainty in Taxing Times: How Geopolitical Risk Shapes Fiscal Policy Preferences through Economic Anxiety and Political Learning. Survey Evidence from Germany, 2009–2025". The analysis examines the sources and processes through which elevated geopolitical risk shifts German voters' preferences on the tax–social benefit trade-off.
 
-**Pia Riepl-Bauer**
-MSc Thesis, PPA, Bocconi University, 2026
-
 ---
 ## Overview
 
